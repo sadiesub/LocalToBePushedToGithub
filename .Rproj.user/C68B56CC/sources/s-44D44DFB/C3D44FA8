@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1551567695938.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1903730251",
+    "id" : "C3D44FA8",
+    "lastKnownWriteTime" : 1551567739,
+    "last_content_update" : 1551567739991,
+    "path" : "~/Coursera/LocalToBePushedToGithub/LocalToRepo.R",
+    "project_path" : "LocalToRepo.R",
+    "properties" : {
+        "cursorPosition" : "0,68",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
